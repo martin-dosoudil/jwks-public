@@ -1,0 +1,5 @@
+{
+  "keys": [
+    {"alg":"ES256","crv":"P-256","kid":"randomid","kty":"EC","use":"sig","x":"fugRuWrNqk8BzhZ6aTGnKLUGANE4xXXoUo_9s8XYVsg","y":"fW4nE4Gfo3rqDehhRLebRMk0ygtwYufuQXdJGZ6C93E"}
+  ]
+}
