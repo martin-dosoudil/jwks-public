@@ -7,6 +7,15 @@
       "x": "XURwAwbh97gFwvIfOo4SVH4IoPcQJImTlIdp-2Jt_lg",
       "y": "LXforOTv6a3wz5sr7B4l5GNuepX2y6q6zOY1ochomC0",
       "use": "sig",
+      "alg": "ES256"
+    },
+    {
+      "crv": "P-521",
+      "kid": "6yl8uju-nJHNaJwvmZRGzVPhaz4-jZ7RQPsHBvDe-vc",
+      "kty": "EC",
+      "x": "AIM1AWJ4wo0xZZ-9PwO6WSxuDb1Bk3EBcNLhgN8vUc3mQKkXEJw4QDM9gokS00OofRvdwAGPsQfJdarjYHH7LY4O",
+      "y": "AAizkCRZXHvItvLWnKuVdV5Thmb2NaUchkrjcthiTxDn0-sqbezA2CndNN-tOJ8vqPAqtkUMR6AjLELKSu4L0inl",
+      "use": "sig",
       "alg": "ES512"
     }
   ]
