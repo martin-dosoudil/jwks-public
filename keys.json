@@ -7,7 +7,7 @@
       "x": "XURwAwbh97gFwvIfOo4SVH4IoPcQJImTlIdp-2Jt_lg",
       "y": "LXforOTv6a3wz5sr7B4l5GNuepX2y6q6zOY1ochomC0",
       "use": "sig",
-      "alg": "ES256"
+      "alg": "ES512"
     }
   ]
 }
