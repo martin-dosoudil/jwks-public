@@ -53,9 +53,19 @@
     "use": "sig",
     "alg": "ES512",
     "kid": "P6EOR6k6nnoepYGzRwz02X5PMZDb0BzoarhUzpABBDs"
+    },
+    {
+      "kty": "EC",
+      "crv": "P-521",
+      "x": "ASUv7uAUdOUbAubi97qW5eoERNJdDDUZjP8z-aEQLgvXmH27D4IzfT7kGxqthkt9iG5vL5YhjeAEuv0B_kAMvJVZ",
+      "y": "APzvCt66SISeRoIWyj9cKBXzq0-dxdmb_BesRONi7UZrwPo79-pHJP_7uT2h3WLyz35B5uQxyrur3Wr184U9pNq_",
+      "use": "sig",
+      "alg": "ES512",
+      "kid": "6PZXc_ykeM4APvt2YdemHyOZiJJnaGoXC7R5vERXEJs"
     }
   ]
 }
+
 
 
 
